@@ -46,7 +46,7 @@ If you don't have Raylib installed, follow the instructions on the [Raylib insta
 
 2. Compile the game:
    ```sh
-   gcc -o pacman main.c -lraylib -lm -lpthread -ldl -lrt
+   gcc -o pacman PACMAN_Final.c -lraylib -lm -lpthread -ldl -lrt
    ```
 
 3. Run the game:
