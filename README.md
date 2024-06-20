@@ -40,7 +40,7 @@ If you don't have Raylib installed, follow the instructions on the [Raylib insta
 ### Building the Game
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/pacman-raylib.git
+   git clone https://github.com/thirumuruganra/PACMAN-using-C-and-RAYLIB.git
    cd pacman-raylib
    ```
 
