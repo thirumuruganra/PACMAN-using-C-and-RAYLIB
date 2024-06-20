@@ -62,23 +62,32 @@ After building the game, run the executable to start playing. Use the controls l
 - **Y**: To Replay the Game After Winning or Losing
 - **N**: Quit the game After Winning or Losing
 - **Esc**: Quit the game while playing
+  
+## Objective of the Game
+The objective is to eat all the pellets and super pellets while avoiding the ghosts. Eating a power pellet allows Pac-Man to eat the ghosts for a short duration (that is 9 seconds).
 
 ## Game Design
 ### Maze
-The maze consists of walls, pellets, power pellets, and ghosts. The objective is to eat all the pellets and super pellets while avoiding the ghosts. Eating a power pellet allows Pac-Man to eat the ghosts for a short duration (that is 9 seconds).
+The maze consists of walls, pellets, power pellets, and ghosts. If you eat all the pellets while avoiding the ghosts, then you WIN the game
 
 ### Score
-Points are awarded for eating pellets, super pellets and ghosts. The game tracks your score, which is displayed at the bottom of the screen.
+Points are awarded for eating pellets, super pellets and ghosts. The game tracks your score, which is displayed at the bottom of the screen. The high score is also displayed at the bottom of the screen.
+
+### Lives
+The player has 3 lives, and when the PACMAN comes in contact with a ghost, the number of lives decreases. When the player scores 5000 points, 1 extra life is awarded. If you lose all your lives, then the game ends.
 
 ### Levels
 The game includes EASY, MEDIUM and HARD levels with increasing difficulty. Each level increases the speed of the ghosts, thereby making the game more challenging and complex.
 
-### 
+### Replay
+If the player wins or loses the game, then they are given the option to replay the game by choosing **Y** or close the window by pressing **N**
 
-## Credits
+## Contributors
 - **Thirumurugan RA** - [thirumuruganra](https://github.com/thirumuruganra/)
 - **Vishal Muralidharan** - [vizz1006](https://github.com/vizz1006)
 - **Varun Prakash** - [hauseboi](https://github.com/hauseboi)
+
+## Credits
 - **Raylib**: An easy-to-use library to enjoy videogames programming by [Ray San](https://www.raylib.com/)
 - **Original Pac-Man Game**: Created by Toru Iwatani and published by Namco
   
