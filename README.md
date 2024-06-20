@@ -60,7 +60,8 @@ After building the game, run the executable to start playing. Use the controls l
 ## Controls
 - **Arrow Keys**: Move Pac-Man
 - **Y**: To Replay the Game After Winning or Losing
-- **N or Esc**: Quit the game
+- **N**: Quit the game After Winning or Losing
+- **Esc**: Quit the game while playing
 
 ## Game Design
 ### Maze
