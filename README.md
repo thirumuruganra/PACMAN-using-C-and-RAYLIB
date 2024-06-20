@@ -76,7 +76,7 @@ The game includes EASY, MEDIUM and HARD levels with increasing difficulty. Each 
 ### 
 
 ## Credits
-- **Thirumurugan RA** - [thirumuruganra](https://github.com/thirumuruganra/)]
+- **Thirumurugan RA** - [thirumuruganra](https://github.com/thirumuruganra/)
 - **Vishal Muralidharan** - [vizz1006](https://github.com/vizz1006)
 - **Varun Prakash** - [hauseboi](https://github.com/hauseboi)
 - **Raylib**: An easy-to-use library to enjoy videogames programming by [Ray San](https://www.raylib.com/)
