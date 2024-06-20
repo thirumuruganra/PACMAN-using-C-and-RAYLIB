@@ -15,6 +15,8 @@
     - [Maze](#maze)
     - [Score](#score)
     - [Levels](#levels)
+    - [Replay](#replay)
+  - [Contributors](#contributors)
   - [Credits](#credits)
   - [License](#license)
 
@@ -62,13 +64,10 @@ After building the game, run the executable to start playing. Use the controls l
 - **Y**: To Replay the Game After Winning or Losing
 - **N**: Quit the game After Winning or Losing
 - **Esc**: Quit the game while playing
-  
-## Objective of the Game
-The objective is to eat all the pellets and super pellets while avoiding the ghosts. Eating a power pellet allows Pac-Man to eat the ghosts for a short duration (that is 9 seconds).
 
 ## Game Design
 ### Maze
-The maze consists of walls, pellets, power pellets, and ghosts. If you eat all the pellets while avoiding the ghosts, then you WIN the game
+The maze consists of walls, pellets, power pellets, and ghosts. The objective is to eat all the pellets and super pellets while avoiding the ghosts. Eating a power pellet allows Pac-Man to eat the ghosts for a short duration (that is 9 seconds). If you eat all the pellets while avoiding the ghosts, then you WIN the game.
 
 ### Score
 Points are awarded for eating pellets, super pellets and ghosts. The game tracks your score, which is displayed at the bottom of the screen. The high score is also displayed at the bottom of the screen.
