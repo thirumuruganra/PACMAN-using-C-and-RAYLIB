@@ -14,6 +14,7 @@
   - [Game Design](#game-design)
     - [Maze](#maze)
     - [Score](#score)
+    - [Lives](#lives)
     - [Levels](#levels)
     - [Replay](#replay)
   - [Contributors](#contributors)
