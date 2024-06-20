@@ -90,7 +90,6 @@ If the player wins or loses the game, then they are given the option to replay t
 ## Credits
 - **Raylib**: An easy-to-use library to enjoy videogames programming by [Ray San](https://www.raylib.com/)
 - **Original Pac-Man Game**: Created by Toru Iwatani and published by Namco
-  
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
