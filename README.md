@@ -73,9 +73,15 @@ Points are awarded for eating pellets, super pellets and ghosts. The game tracks
 ### Levels
 The game includes EASY, MEDIUM and HARD levels with increasing difficulty. Each level increases the speed of the ghosts, thereby making the game more challenging and complex.
 
+### 
+
 ## Credits
+- **Thirumurugan RA** - [thirumuruganra](https://github.com/thirumuruganra/)]
+- **Vishal Muralidharan** - [vizz1006](https://github.com/vizz1006)
+- **Varun Prakash** - [hauseboi](https://github.com/hauseboi)
 - **Raylib**: An easy-to-use library to enjoy videogames programming by [Ray San](https://www.raylib.com/)
 - **Original Pac-Man Game**: Created by Toru Iwatani and published by Namco
+  
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
