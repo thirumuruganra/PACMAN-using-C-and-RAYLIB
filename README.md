@@ -82,7 +82,7 @@ The game includes EASY, MEDIUM and HARD levels with increasing difficulty. Each 
 ### Replay
 If the player wins or loses the game, then they are given the option to replay the game by choosing **Y** or close the window by pressing **N**
 
-## Contributors
+## Team Members
 - **Thirumurugan RA** - [thirumuruganra](https://github.com/thirumuruganra/)
 - **Vishal Muralidharan** - [vishal-muralidharan](https://github.com/vishal-muralidharan)
 - **Varun Prakash** - [hauseboi](https://github.com/hauseboi)
