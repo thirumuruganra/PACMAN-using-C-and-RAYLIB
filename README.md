@@ -84,7 +84,7 @@ If the player wins or loses the game, then they are given the option to replay t
 
 ## Contributors
 - **Thirumurugan RA** - [thirumuruganra](https://github.com/thirumuruganra/)
-- **Vishal Muralidharan** - [vizz1006](https://github.com/vizz1006)
+- **Vishal Muralidharan** - [vishal-muralidharan](https://github.com/vishal-muralidharan)
 - **Varun Prakash** - [hauseboi](https://github.com/hauseboi)
 
 ## Credits
